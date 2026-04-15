@@ -44,3 +44,4 @@ Do pliku `pom.xml` projektu dodać:
   <version>0.1.1</version>
 </dependency>
 ```
+[![](https://jitpack.io/v/WikWis/file-reader.svg)](https://jitpack.io/#WikWis/file-reader)
