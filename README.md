@@ -41,6 +41,6 @@ Do pliku `pom.xml` projektu dodać:
 <dependency>
   <groupId>com.github.WikWis</groupId>
   <artifactId>file-reader</artifactId>
-  <version>1.0.0</version>
+  <version>0.1.1</version>
 </dependency>
 ```
