@@ -1,6 +1,8 @@
 # File Reading Library
 Prosta biblioteka do odczytu, zapisu.
 
+Projekt służy do nauki pisania prostej biblioteki w Maven oraz zapoznanie się z narzędziem jitpack.
+
 ---
 ## Struktura projektu
 - `file.reader`
